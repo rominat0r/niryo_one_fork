@@ -9,6 +9,7 @@ This repository contains STL files to print Niryo One with a 3D printer.
 Note : **You need at least a 200mm\*200mm\*200mm 3D printer to be able to print all the parts.**
 
 You can find Niryo One ROS stack here : https://github.com/NiryoRobotics/niryo_one_ros 
+This fork is meant to be truly open source, meaning that all parts should be easy to find and buy. 
 
 Enjoy !
 
