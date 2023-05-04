@@ -3,6 +3,8 @@
 
 Here we are using Arduino and CNC board instead of raspberry pi. Also instead of motors from Robotis we are going to use MG995. 
 
+![alt text](https://images.prom.ua/3535186936_w640_h640_3535186936.jpg)
+
 Original: (Niryo One : [https://niryo.com](https://niryo.com/?utm_source=github))
 
 ![Niryo One image](https://niryo.com/wp-content/uploads/2018/09/niryo_one_with_gripper1.jpg)
