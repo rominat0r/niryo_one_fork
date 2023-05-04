@@ -1,7 +1,7 @@
 # Niryo One Fork
 
 
-
+Here we are using Arduino and CNC board for it. Also instead of motors from Robotis we are going to use MG995. 
 Original: (Niryo One : [https://niryo.com](https://niryo.com/?utm_source=github))
 
 ![Niryo One image](https://niryo.com/wp-content/uploads/2018/09/niryo_one_with_gripper1.jpg)
