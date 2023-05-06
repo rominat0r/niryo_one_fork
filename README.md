@@ -1,7 +1,7 @@
 # Niryo One Fork
 
 
-Here we are using Arduino and CNC board instead of raspberry pi. Also instead of motors from Robotis we are going to use MG995. We are going to use FreeCAD to stay truly open-source.
+Here we are using Arduino and CNC board instead of raspberry pi. Also instead of motors from Robotis we are going to use MG995. 
 
 
 Original: (Niryo One : [https://niryo.com](https://niryo.com/?utm_source=github))
