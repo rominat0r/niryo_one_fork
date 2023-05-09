@@ -9,7 +9,7 @@ Original: (Niryo One : [https://niryo.com](https://niryo.com/?utm_source=github)
 ![Niryo One image](https://niryo.com/wp-content/uploads/2018/09/niryo_one_with_gripper1.jpg)
 
 
-![](https://images.prom.ua/3535186936_w640_h640_3535186936.jpg)
+[](https://www.amazon.pl/STEPPERONLINE-silnik-krokowy-drukarki-opakowanie/dp/B0B93HTR87/ref=sr_1_7?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3826TTZYIT2T0&keywords=nema+17&qid=1683641995&sprefix=nema+17+%2Caps%2C112&sr=8-7)
 
 This repository contains STL files to print Niryo One with a 3D printer.
 
